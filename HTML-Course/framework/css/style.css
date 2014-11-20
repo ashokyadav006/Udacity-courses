@@ -1,0 +1,17 @@
+body {
+	font-family: 'Delius Unicase', cursive;
+	color: #CBBFA3;
+}
+
+.header-container {
+	margin-top: 20px;
+}
+
+.name-img {
+	margin-top: 20px;
+}
+
+.name {
+	font-weight: 700;
+	color:#000000;
+}

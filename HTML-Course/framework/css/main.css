@@ -1,0 +1,107 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+}
+
+@media only screen and (max-width: 500px) {
+	p {
+		display: none;
+	}
+}
+
+body {
+	background-color: #fbfaf9;
+}
+
+hr {
+	border: 2px solid;
+	color:BCBBBB;
+}
+.row {
+	width: 100%;
+	display: flex;
+}
+
+.col-1 {
+	width: 8.33%;
+	padding: 10px;
+}
+
+.col-2 {
+	width: 16.66%;
+	padding: 10px;
+}
+
+.col-3 {
+	width: 25%;
+	padding: 10px;
+}
+
+.col-4 {
+	width: 33.33%;
+	padding: 10px;
+}
+
+.col-5 {
+	width: 41.55%;
+	padding: 10px;
+}
+
+.col-6 {
+	width: 50%;
+	padding: 10px;
+}
+
+.col-7 {
+	width: 58.33%;
+	padding: 10px;
+}
+
+.col-8 {
+	width: 66.66%;
+	padding: 10px;
+}
+
+.col-9 {
+	width: 75%;
+	padding: 10px;
+}
+
+.col-10 {
+	width: 83.33%;
+	padding: 10px;
+}
+
+.col-11 {
+	width: 91.66%;
+	padding: 10px;
+}
+
+.col-12 {
+	width: 100%;
+	padding: 10px;
+}
+
+.rigt-alinged-text {
+	margin-left: auto;
+}
+
+.name {
+	font-size: 62px;
+	margin-bottom: 0px;
+	font-weight: 300;
+	color: #747704;
+}
+
+.name-title {
+	font-size: 25px;
+	margin-top: 0px;
+	font-weight: 300;
+	color: #747704;
+}
+
+.featured-work {
+	color: #BCBBBB;
+	font-size: 30px;
+	font-weight: 300;
+}
